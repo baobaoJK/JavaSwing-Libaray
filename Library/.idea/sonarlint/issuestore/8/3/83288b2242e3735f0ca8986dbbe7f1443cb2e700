@@ -1,0 +1,56 @@
+
+l
+java:S1104"PMake menu a static final constant or non-public and provide accessors if needed.(ôµœ08î¶Ëş0
+g
+java:S1104"QMake title a static final constant or non-public and provide accessors if needed.(æ´î‡
+p
+java:S1104"TMake subTitle a static final constant or non-public and provide accessors if needed.(ÈŒé8Ä¯Òş0
+p
+java:S1104"UMake textField a static final constant or non-public and provide accessors if needed.(ÏÑ°¾şÿÿÿÿ
+h
+java:S1104"RMake button a static final constant or non-public and provide accessors if needed.(ûÎŞ×
+n
+java:S1104"XMake loginMessage a static final constant or non-public and provide accessors if needed.(­â¤à
+s
+java:S1104"VMake menuButton a static final constant or non-public and provide accessors if needed.(ÒÃÅ‘8§ÊÚÒş0
+r
+java:S1104"PMake pane a static final constant or non-public and provide accessors if needed.(åŸúÛıÿÿÿÿ8ÛÅóş0
+m
+java:S1104"PMake time a static final constant or non-public and provide accessors if needed.(ù¿„×8ô»Äóş0
+v
+java:S1104"TMake comboBox a static final constant or non-public and provide accessors if needed.(Ó°äøøÿÿÿÿ8—¶¸úş0
+w
+java:S1104"UMake pageLabel a static final constant or non-public and provide accessors if needed.(©Ôµıÿÿÿÿ8¶ôûş0
+p
+java:S1104"SMake message a static final constant or non-public and provide accessors if needed.(É¯¸8ğ­­Á‚1
+z
+java:S1104 "XMake errorMessage a static final constant or non-public and provide accessors if needed.(‘Èş—ıÿÿÿÿ8½Á‚1
+F
+java:S1444"*Make this "public static menu" field final(ôµœ08î¶Ëş0
+A
+java:S1444"+Make this "public static title" field final(æ´î‡
+J
+java:S1444".Make this "public static subTitle" field final(ÈŒé8Ä¯Òş0
+J
+java:S1444"/Make this "public static textField" field final(ÏÑ°¾şÿÿÿÿ
+B
+java:S1444",Make this "public static button" field final(ûÎŞ×
+H
+java:S1444"2Make this "public static loginMessage" field final(­â¤à
+M
+java:S1444"0Make this "public static menuButton" field final(ÒÃÅ‘8§ÊÚÒş0
+L
+java:S1444"*Make this "public static pane" field final(åŸúÛıÿÿÿÿ8ÛÅóş0
+G
+java:S1444"*Make this "public static time" field final(ù¿„×8ô»Äóş0
+P
+java:S1444".Make this "public static comboBox" field final(Ó°äøøÿÿÿÿ8—¶¸úş0
+Q
+java:S1444"/Make this "public static pageLabel" field final(©Ôµıÿÿÿÿ8¶ôûş0
+J
+java:S1444"-Make this "public static message" field final(É¯¸8ğ­­Á‚1
+T
+java:S1444 "2Make this "public static errorMessage" field final(‘Èş—ıÿÿÿÿ8Ÿ½Á‚1
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(³Ş´Œùÿÿÿÿ

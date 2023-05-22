@@ -1,0 +1,11 @@
+
+z
+java:S1450"XRemove the "bookCount" field and declare it as a local variable in the relevant methods.(Í–ãìþÿÿÿÿ8©à§¹‚1
+|
+java:S1450"ZRemove the "borrowCount" field and declare it as a local variable in the relevant methods.(—ÓòÖûÿÿÿÿ8ªà§¹‚1
+y
+java:S1450"\Remove the "overtimeCount" field and declare it as a local variable in the relevant methods.(íß’¬8Ý‹¨¹‚1
+H
+java:S1948L"+Make "tableDate" transient or serializable.(ŸÎÃË8£÷˜Ö‚1
+|
+java:S2142„"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¿à§¹‚1

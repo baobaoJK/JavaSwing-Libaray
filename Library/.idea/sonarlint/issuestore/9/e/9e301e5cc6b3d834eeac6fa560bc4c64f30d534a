@@ -1,0 +1,57 @@
+
+s
+java:S1104"XMake bookFormText a static final constant or non-public and provide accessors if needed.(Ñøö—şÿÿÿÿ
+q
+java:S1104"VMake groupsText a static final constant or non-public and provide accessors if needed.(¿Ê‹ùÿÿÿÿ
+s
+java:S1104"XMake bookNameText a static final constant or non-public and provide accessors if needed.(ÎÓ›Şüÿÿÿÿ
+p
+java:S1104"ZMake bookAuthorText a static final constant or non-public and provide accessors if needed.(Íôøæ
+o
+java:S1104"YMake bookPressText a static final constant or non-public and provide accessors if needed.(‹˜À—
+n
+java:S1104"YMake bookPriceText a static final constant or non-public and provide accessors if needed.(íÔ°
+t
+java:S1104"YMake bookCountText a static final constant or non-public and provide accessors if needed.(öşËœüÿÿÿÿ
+s
+java:S1104 "XMake bookIsbnText a static final constant or non-public and provide accessors if needed.(ä’ƒúûÿÿÿÿ
+s
+java:S1104%"]Make bookFormTextLabel a static final constant or non-public and provide accessors if needed.(áÏÁª
+p
+java:S1104&"[Make groupsTextLabel a static final constant or non-public and provide accessors if needed.(ÿö
+x
+java:S1104'"]Make bookNameTextLabel a static final constant or non-public and provide accessors if needed.(êè²…úÿÿÿÿ
+z
+java:S1104("_Make bookAuthorTextLabel a static final constant or non-public and provide accessors if needed.(æ³Ìøÿÿÿÿ
+y
+java:S1104)"^Make bookPressTextLabel a static final constant or non-public and provide accessors if needed.(·»¹³øÿÿÿÿ
+y
+java:S1104*"^Make bookPriceTextLabel a static final constant or non-public and provide accessors if needed.(€Ó®Üüÿÿÿÿ
+y
+java:S1104+"^Make bookCountTextLabel a static final constant or non-public and provide accessors if needed.(½å±àıÿÿÿÿ
+x
+java:S1104,"]Make bookIsbnTextLabel a static final constant or non-public and provide accessors if needed.(ú·âûÿÿÿÿ
+l
+java:S1104-"VMake errorLabel a static final constant or non-public and provide accessors if needed.(öÛÄµ
+r
+java:S11042"WMake closeButton a static final constant or non-public and provide accessors if needed.(ŞÒáµÿÿÿÿÿ
+n
+java:S11043"XMake cancelButton a static final constant or non-public and provide accessors if needed.(Èêû»
+u
+java:S11044"ZMake bookFormButton a static final constant or non-public and provide accessors if needed.(¬ª€ûÿÿÿÿ
+o
+java:S11049"YMake bookFormPanel a static final constant or non-public and provide accessors if needed.(Úâìº
+u
+java:S1104>"ZMake groupsComboBox a static final constant or non-public and provide accessors if needed.(ñ¢ô¥ÿÿÿÿÿ
+t
+java:S1104C"YMake bookNameField a static final constant or non-public and provide accessors if needed.(§ìÌ£üÿÿÿÿ
+q
+java:S1104D"[Make bookAuthorField a static final constant or non-public and provide accessors if needed.(éĞÓ
+p
+java:S1104E"ZMake bookPressField a static final constant or non-public and provide accessors if needed.(“¶çë
+u
+java:S1104F"ZMake bookPriceField a static final constant or non-public and provide accessors if needed.(Ãé§Ïıÿÿÿÿ
+p
+java:S1104G"ZMake bookCountField a static final constant or non-public and provide accessors if needed.(Åƒ°
+t
+java:S1104H"YMake bookIsbnField a static final constant or non-public and provide accessors if needed.(õ½¸¶ùÿÿÿÿ

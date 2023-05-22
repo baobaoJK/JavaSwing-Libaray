@@ -1,0 +1,15 @@
+
+r
+java:S1192"PDefine a constant instead of duplicating this literal "è¯·é€‰æ‹©ç»„åˆ«" 4 times.(éšýéüÿÿÿÿ8ß¢›Ï‚1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÅÉ²Ëúÿÿÿÿ8¶‚¢Ï‚1
+R
+java:S6397~"5Replace this character class by the character itself.(œ“Ðþ8›æ¡Ï‚1
+R
+java:S6397~"5Replace this character class by the character itself.(œ“Ðþ8›æ¡Ï‚1
+@
+java:S6396~"#Remove this unnecessary quantifier.(œ“Ðþ8›æ¡Ï‚1
+Y
+java:S6353~"<Use concise character class syntax '\\d' instead of '[0-9]'.(œ“Ðþ8›æ¡Ï‚1
+Y
+java:S6353~"<Use concise character class syntax '\\d' instead of '[0-9]'.(œ“Ðþ8›æ¡Ï‚1

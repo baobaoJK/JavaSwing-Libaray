@@ -1,0 +1,11 @@
+
+q
+java:S1104"VMake pageNumber a static final constant or non-public and provide accessors if needed.(üª€Ìýÿÿÿÿ
+p
+java:S1104"UMake pageTotal a static final constant or non-public and provide accessors if needed.(Éñ¸­ýÿÿÿÿ
+k
+java:S1104"UMake pageLabel a static final constant or non-public and provide accessors if needed.(ÎœÔÃ
+t
+java:S1104"YMake prePageButton a static final constant or non-public and provide accessors if needed.(Âž‡Ãúÿÿÿÿ
+u
+java:S1104"ZMake nextPageButton a static final constant or non-public and provide accessors if needed.(ˆåÃ—úÿÿÿÿ

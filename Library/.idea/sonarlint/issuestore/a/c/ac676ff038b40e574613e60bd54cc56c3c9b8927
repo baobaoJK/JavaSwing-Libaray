@@ -1,0 +1,131 @@
+
+j
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(¢µ²ıÿÿÿÿ
+r
+java:S1104"WMake systemImage a static final constant or non-public and provide accessors if needed.(€ùÂ›úÿÿÿÿ
+r
+java:S1104"\Make closeButtonImage a static final constant or non-public and provide accessors if needed.(ßÇ®
+v
+java:S1104"[Make closeButtonIcon a static final constant or non-public and provide accessors if needed.(Øö®¢şÿÿÿÿ
+w
+java:S1104"aMake closeButtonHoverImage a static final constant or non-public and provide accessors if needed.(œ ™×
+{
+java:S1104"`Make closeButtonHoverIcon a static final constant or non-public and provide accessors if needed.(Ñ¡—ûÿÿÿÿ
+v
+java:S1104"[Make hideButtonImage a static final constant or non-public and provide accessors if needed.(Óâó±ûÿÿÿÿ
+u
+java:S1104"ZMake hideButtonIcon a static final constant or non-public and provide accessors if needed.(¿Õ“Áûÿÿÿÿ
+v
+java:S1104"`Make hideButtonHoverImage a static final constant or non-public and provide accessors if needed.(ıò¬Ü
+z
+java:S1104"_Make hideButtonHoverIcon a static final constant or non-public and provide accessors if needed.(Ç¤Öûşÿÿÿÿ
+j
+java:S1104"TMake homeIcon a static final constant or non-public and provide accessors if needed.(¢ÂûÃ
+t
+java:S1104"YMake homeFocusIcon a static final constant or non-public and provide accessors if needed.(ÀÚ ´øÿÿÿÿ
+o
+java:S1104 "TMake bookIcon a static final constant or non-public and provide accessors if needed.(‹…ÚÊşÿÿÿÿ
+t
+java:S1104!"YMake bookFocusIcon a static final constant or non-public and provide accessors if needed.(±ÿŸíøÿÿÿÿ
+l
+java:S1104""VMake borrowIcon a static final constant or non-public and provide accessors if needed.(ÄÅÚÚ
+p
+java:S1104#"[Make borrowFocusIcon a static final constant or non-public and provide accessors if needed.(ÒıÜZ
+q
+java:S1104$"VMake returnIcon a static final constant or non-public and provide accessors if needed.(²ÊŸ¯úÿÿÿÿ
+v
+java:S1104%"[Make returnFocusIcon a static final constant or non-public and provide accessors if needed.(«×úƒùÿÿÿÿ
+s
+java:S1104&"XMake overtimeIcon a static final constant or non-public and provide accessors if needed.(íÕÀ©ıÿÿÿÿ
+x
+java:S1104'"]Make overtimeFocusIcon a static final constant or non-public and provide accessors if needed.(Œ“ôğüÿÿÿÿ
+j
+java:S1104("TMake userIcon a static final constant or non-public and provide accessors if needed.(Ñ³Î
+o
+java:S1104)"YMake userFocusIcon a static final constant or non-public and provide accessors if needed.(Ñ£İ
+k
+java:S1104*"VMake systemIcon a static final constant or non-public and provide accessors if needed.(¨£
+q
+java:S1104+"[Make systemFocusIcon a static final constant or non-public and provide accessors if needed.(—Ş•
+s
+java:S1104,"XMake bookPaneIcon a static final constant or non-public and provide accessors if needed.(ï§Ü‚ùÿÿÿÿ
+u
+java:S1104-"ZMake borrowPaneIcon a static final constant or non-public and provide accessors if needed.(‹¤Î…ûÿÿÿÿ
+w
+java:S1104."\Make overtimePaneIcon a static final constant or non-public and provide accessors if needed.(¥ê—Êşÿÿÿÿ
+n
+java:S1104/"XMake timePaneIcon a static final constant or non-public and provide accessors if needed.(†—À
+p
+java:S11040"UMake errorIcon a static final constant or non-public and provide accessors if needed.(©¾Şúÿÿÿÿ
+y
+java:S11041"WMake successIcon a static final constant or non-public and provide accessors if needed.(©¯¤”úÿÿÿÿ8ŞåÎÿ0
+p
+java:S11042"UMake userImage a static final constant or non-public and provide accessors if needed.(®Ğ©Íüÿÿÿÿ
+v
+java:S11043"YMake userImageIcon a static final constant or non-public and provide accessors if needed.(Ä‰¡8œª®ÿ0
+D
+java:S1444")Make this "public static url" field final(¢µ²ıÿÿÿÿ
+L
+java:S1444"1Make this "public static systemImage" field final(€ùÂ›úÿÿÿÿ
+L
+java:S1444"6Make this "public static closeButtonImage" field final(ßÇ®
+P
+java:S1444"5Make this "public static closeButtonIcon" field final(Øö®¢şÿÿÿÿ
+Q
+java:S1444";Make this "public static closeButtonHoverImage" field final(œ ™×
+U
+java:S1444":Make this "public static closeButtonHoverIcon" field final(Ñ¡—ûÿÿÿÿ
+P
+java:S1444"5Make this "public static hideButtonImage" field final(Óâó±ûÿÿÿÿ
+O
+java:S1444"4Make this "public static hideButtonIcon" field final(¿Õ“Áûÿÿÿÿ
+P
+java:S1444":Make this "public static hideButtonHoverImage" field final(ıò¬Ü
+T
+java:S1444"9Make this "public static hideButtonHoverIcon" field final(Ç¤Öûşÿÿÿÿ
+D
+java:S1444".Make this "public static homeIcon" field final(¢ÂûÃ
+N
+java:S1444"3Make this "public static homeFocusIcon" field final(ÀÚ ´øÿÿÿÿ
+I
+java:S1444 ".Make this "public static bookIcon" field final(‹…ÚÊşÿÿÿÿ
+N
+java:S1444!"3Make this "public static bookFocusIcon" field final(±ÿŸíøÿÿÿÿ
+F
+java:S1444""0Make this "public static borrowIcon" field final(ÄÅÚÚ
+J
+java:S1444#"5Make this "public static borrowFocusIcon" field final(ÒıÜZ
+K
+java:S1444$"0Make this "public static returnIcon" field final(²ÊŸ¯úÿÿÿÿ
+P
+java:S1444%"5Make this "public static returnFocusIcon" field final(«×úƒùÿÿÿÿ
+M
+java:S1444&"2Make this "public static overtimeIcon" field final(íÕÀ©ıÿÿÿÿ
+R
+java:S1444'"7Make this "public static overtimeFocusIcon" field final(Œ“ôğüÿÿÿÿ
+D
+java:S1444(".Make this "public static userIcon" field final(Ñ³Î
+I
+java:S1444)"3Make this "public static userFocusIcon" field final(Ñ£İ
+E
+java:S1444*"0Make this "public static systemIcon" field final(¨£
+K
+java:S1444+"5Make this "public static systemFocusIcon" field final(—Ş•
+M
+java:S1444,"2Make this "public static bookPaneIcon" field final(ï§Ü‚ùÿÿÿÿ
+O
+java:S1444-"4Make this "public static borrowPaneIcon" field final(‹¤Î…ûÿÿÿÿ
+Q
+java:S1444."6Make this "public static overtimePaneIcon" field final(¥ê—Êşÿÿÿÿ
+H
+java:S1444/"2Make this "public static timePaneIcon" field final(†—À
+J
+java:S14440"/Make this "public static errorIcon" field final(©¾Şúÿÿÿÿ
+S
+java:S14441"1Make this "public static successIcon" field final(©¯¤”úÿÿÿÿ8ßåÎÿ0
+J
+java:S14442"/Make this "public static userImage" field final(®Ğ©Íüÿÿÿÿ
+P
+java:S14443"3Make this "public static userImageIcon" field final(Ä‰¡8‚œª®ÿ0
+U
+java:S1118":Add a private constructor to hide the implicit public one.(™Å˜Ïûÿÿÿÿ

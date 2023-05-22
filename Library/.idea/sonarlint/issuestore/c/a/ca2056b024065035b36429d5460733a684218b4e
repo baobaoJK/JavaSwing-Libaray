@@ -1,0 +1,63 @@
+
+u
+java:S1104"XMake userFormText a static final constant or non-public and provide accessors if needed.(õŠ•Ş8ÖŒêË‚1
+x
+java:S1104"VMake groupsText a static final constant or non-public and provide accessors if needed.(¿Ê‹ùÿÿÿÿ8ÖŒêË‚1
+u
+java:S1104"XMake usernameText a static final constant or non-public and provide accessors if needed.(ıòà³8ÖŒêË‚1
+t
+java:S1104"XMake passwordText a static final constant or non-public and provide accessors if needed.(»ø³8ÖŒêË‚1
+q
+java:S1104"TMake nameText a static final constant or non-public and provide accessors if needed.(÷‹ú8ÖŒêË‚1
+s
+java:S1104"VMake genderText a static final constant or non-public and provide accessors if needed.(á ½Ğ8ÖŒêË‚1
+x
+java:S1104"VMake idCardText a static final constant or non-public and provide accessors if needed.(ÀÁ›Åıÿÿÿÿ8ÖŒêË‚1
+r
+java:S1104"UMake phoneText a static final constant or non-public and provide accessors if needed.(ôæÑ½8ÖŒêË‚1
+z
+java:S1104"XMake identityText a static final constant or non-public and provide accessors if needed.(„Œüÿÿÿÿ8ÖŒêË‚1
+
+java:S1104#"]Make userFormTextLabel a static final constant or non-public and provide accessors if needed.(·Üˆşûÿÿÿÿ8ÖŒêË‚1
+w
+java:S1104$"[Make groupsTextLabel a static final constant or non-public and provide accessors if needed.(ÿö8ÖŒêË‚1
+
+java:S1104%"]Make usernameTextLabel a static final constant or non-public and provide accessors if needed.(µœî£øÿÿÿÿ8ÖŒêË‚1
+z
+java:S1104&"]Make passwordTextLabel a static final constant or non-public and provide accessors if needed.(ô·Ÿ€8ÖŒêË‚1
+{
+java:S1104'"YMake nameTextLabel a static final constant or non-public and provide accessors if needed.(‘í§ÿÿÿÿÿ8ÖŒêË‚1
+w
+java:S1104("[Make genderTextLabel a static final constant or non-public and provide accessors if needed.(ğ±ˆC8×ŒêË‚1
+x
+java:S1104)"[Make idCardTextLabel a static final constant or non-public and provide accessors if needed.(ù½¯Ş8×ŒêË‚1
+w
+java:S1104*"ZMake phoneTextLabel a static final constant or non-public and provide accessors if needed.(Ã¡ºÕ8×ŒêË‚1
+z
+java:S1104+"]Make identityTextLabel a static final constant or non-public and provide accessors if needed.(ë¯‰†8×ŒêË‚1
+s
+java:S1104,"VMake errorLabel a static final constant or non-public and provide accessors if needed.(öÛÄµ8×ŒêË‚1
+y
+java:S11041"WMake closeButton a static final constant or non-public and provide accessors if needed.(ŞÒáµÿÿÿÿÿ8×ŒêË‚1
+u
+java:S11042"XMake cancelButton a static final constant or non-public and provide accessors if needed.(Èêû»8×ŒêË‚1
+w
+java:S11043"ZMake userFormButton a static final constant or non-public and provide accessors if needed.(üÙ£¹8×ŒêË‚1
+v
+java:S11048"YMake userFormPanel a static final constant or non-public and provide accessors if needed.(µ©ö¶8×ŒêË‚1
+|
+java:S1104="ZMake groupsComboBox a static final constant or non-public and provide accessors if needed.(ñ¢ô¥ÿÿÿÿÿ8×ŒêË‚1
+w
+java:S1104>"ZMake genderComboBox a static final constant or non-public and provide accessors if needed.(ù¸Â—8×ŒêË‚1
+y
+java:S1104?"\Make identityComboBox a static final constant or non-public and provide accessors if needed.(öë·Æ8×ŒêË‚1
+v
+java:S1104D"YMake usernameField a static final constant or non-public and provide accessors if needed.(°®À¡8×ŒêË‚1
+{
+java:S1104E"YMake passwordField a static final constant or non-public and provide accessors if needed.(æ—Ôúÿÿÿÿ8×ŒêË‚1
+w
+java:S1104F"UMake nameField a static final constant or non-public and provide accessors if needed.(«’Œùÿÿÿÿ8×ŒêË‚1
+t
+java:S1104G"WMake idCardField a static final constant or non-public and provide accessors if needed.(§†¿ˆ8×ŒêË‚1
+x
+java:S1104H"VMake phoneField a static final constant or non-public and provide accessors if needed.(‘¯³ùÿÿÿÿ8×ŒêË‚1
